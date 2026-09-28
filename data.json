@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Portfolio",
+    "category": "Web Design",
+    "description": "My personal portfolio website",
+    "year": 2026
+  },
+  {
+    "id": 2,
+    "title": "Astana Digital",
+    "category": "UI/UX Design",
+    "description": "Website design for a digital agency",
+    "year": 2026
+  },
+  {
+    "id": 3,
+    "title": "Digital Campaign",
+    "category": "Graphic Design",
+    "description": "A visual concept for a digital campaign",
+    "year": 2026
+  },
+  {
+    "id": 4,
+    "title": "Mobile App Design",
+    "category": "UI/UX Design",
+    "description": "A modern mobile application interface",
+    "year": 2026
+  },
+  {
+    "id": 5,
+    "title": "Low Poly Object",
+    "category": "3D Design",
+    "description": "A 3D model created in Blender",
+    "year": 2026
+  },
+  {
+    "id": 6,
+    "title": "Creative Poster",
+    "category": "Graphic Design",
+    "description": "An experimental poster design",
+    "year": 2026
+  }
+]
